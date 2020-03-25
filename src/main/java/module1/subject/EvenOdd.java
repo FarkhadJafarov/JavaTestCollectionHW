@@ -32,7 +32,7 @@ public class EvenOdd {
             }
         }
 
-//        int i5= scan.nextInt();
+//        int i5 = scan.nextInt()11;
 //        String mystr = String.valueOf(i5);
 //        char mychr = mystr.charAt(0);
 //        System.out.println(mychr);
