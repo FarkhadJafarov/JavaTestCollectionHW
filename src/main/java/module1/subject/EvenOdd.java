@@ -31,7 +31,7 @@ public class EvenOdd {
                 System.out.println("Вы ввели не число");
             }
         }
-
+        //преобразовать int в char
 //        int i5 = scan.nextInt()11;
 //        String mystr = String.valueOf(i5);
 //        char mychr = mystr.charAt(0);
