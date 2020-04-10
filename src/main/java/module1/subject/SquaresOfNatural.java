@@ -7,11 +7,12 @@ import java.util.Scanner;
 public class SquaresOfNatural {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
+        System.out.println("Введите натуральное число");
         int num = scan.nextInt();
-        int y = 1;
+        int i = 1;
 
-        while(y*y < num){
-            System.out.println((y *y++));
+        while(i*i < num){
+            System.out.println((i *i++));
         }
     }
 }
